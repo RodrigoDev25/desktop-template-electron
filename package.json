@@ -2,7 +2,7 @@
   "name": "desktop-template-electron",
   "version": "1.0.0",
   "description": "Template base para criar apliações com o electron",
-  "main": "script.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
