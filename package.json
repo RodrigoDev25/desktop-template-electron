@@ -2,12 +2,12 @@
   "name": "desktop-template-electron",
   "version": "1.0.0",
   "description": "Template base para criar apliações com o electron",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "keywords": [],
-  "author": "",
+  "author": "Rodrigo Silva",
   "license": "ISC",
   "devDependencies": {
     "electron": "^36.2.0"
